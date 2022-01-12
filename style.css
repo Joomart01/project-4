@@ -1,0 +1,34 @@
+.block{color: #8b00ff;
+    text-align: center;
+    margin-right: 300px;
+    height: 200px;
+    width: 10px;
+    background: aqua;
+}
+.block2{
+
+    color: #8b00ff;
+    text-align: center;
+    margin-right: 300px;
+    height: 200px;
+    width: 10px;
+    background: aqua;
+}
+.title{
+    color: forestgreen;
+    background: #36daff;
+    padding: 100px;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    font-style: normal;
+}
+.block {
+    border-radius: 10%;
+    border: 10px brown dashed;
+    box-shadow: 10px 10px 30px -10px #000;
+    height: 200px;
+    width: 200px;
+    background: url("./img/1559370578_1.jpg") no-repeat center/cover;
+}
+
